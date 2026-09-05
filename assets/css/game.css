@@ -1,1 +1,20 @@
+body {
+    background-color: aqua;
+    background-image: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
 
+h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: aliceblue;
+    font-style: normal;
+    font-palette: inherit;
+    font-variant-emoji: normal;
+    padding: auto;
+    position: absolute;
+}
